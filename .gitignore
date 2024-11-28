@@ -1,0 +1,23 @@
+# Ignore all folders named 'run'
+runs/
+
+# Ignore all folders named 'wandb'
+wandb/
+
+# Ignore all folders named 'ray_results'
+ray_results/
+results/
+
+# Ignore all __pycache__ folders at any depth
+__pycache__/
+
+curiosAI/
+
+# add .pyc files
+*.pyc
+# add .pyo files
+*.pyo
+# add .pyd files
+*.pyd
+# add __pycache__ folder
+__pycache__/
